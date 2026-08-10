@@ -1,0 +1,18 @@
+{
+  "name": "banana-pillow-bot",
+  "version": "1.0.0",
+  "description": "🍌 Banana Pillow — Your all-in-one Discord bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["discord", "bot", "banana", "pillow"],
+  "author": "Banana Pillow Team",
+  "license": "MIT"
+}
